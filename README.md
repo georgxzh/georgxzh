@@ -9,6 +9,21 @@ Past: AXTI, MRAM, TTMI, NVTS ...
 favorite mathematician: https://alpo.ge/ 
 
 Hadamard Matrices H₄
- 
+
+
+    </td>
+
+    <!-- RIGHT COLUMN -->
+    <td width="50%" align="center">
+
+<img
+  src="./assets/anime-city-ascii-blue.png"
+  width="100%"
+  alt="Anime city scene reconstructed as blue ASCII art"
+/>
+
+    </td>
+  </tr>
+</table>
 
 
