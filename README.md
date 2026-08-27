@@ -1,3 +1,7 @@
+
+<table>
+  <tr>
+    <td width="50%" align="center">
 honours math @ uwaterloo '31                                                     
 
 I like researching LLM inference (-> KV-cache)  
@@ -9,12 +13,21 @@ Past: AXTI, MRAM, TTMI, NVTS ...
 favorite mathematician: https://alpo.ge/ 
 
 Hadamard Matrices H₄
+    </td>
 
-<img
-  src="./assets/anime-city-ascii-blue.png"
-  width="100%"
-  alt="Anime city scene reconstructed as blue ASCII art"
-/>
+    <td width="50%" align="center">
+      <img
+        src="./assets/anime-city-ascii-blue.png"
+        width="420"
+        alt="Anime city scene reconstructed as blue ASCII art"
+      />
+    </td>
+  </tr>
+</table>
+
+
+
+
 
 
 
