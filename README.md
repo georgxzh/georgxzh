@@ -4,7 +4,7 @@
 
 <p>
 Honours Math @ UWaterloo '31<br>
-I like researching LLM inference (&rarr; KV-cache)
+I like researching LLM inference (&rarr; KV cache)
 </p>
 
 <p>
