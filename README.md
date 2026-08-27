@@ -1,33 +1,39 @@
-
 <table>
-  <tr>
-    <td width="50%" align="center">
-honours math @ uwaterloo '31                                                     
+<tr>
+<td width="50%" align="center">
 
-I like researching LLM inference (-> KV-cache)  
+<p>
+Honours Math @ UWaterloo '31<br>
+I like researching LLM inference (&rarr; KV-cache)
+</p>
 
-running a discretionary book myself (US + EU equities), trading since 15 
+<p>
+Running a discretionary book myself<br>
+(US + EU equities), trading since 15
+</p>
 
+<p>
 Past: AXTI, MRAM, TTMI, NVTS ...
+</p>
 
-favorite mathematician: https://alpo.ge/ 
+<p>
+Favorite mathematician:
+<a href="https://alpo.ge/">Alpoge</a>
+</p>
 
-Hadamard Matrices H₄
-    </td>
+<p>
+Hadamard Matrices H<sub>4</sub>
+</p>
 
-    <td width="50%" align="center">
-      <img
-        src="./assets/anime-city-ascii-blue.png"
-        width="420"
-        alt="Anime city scene reconstructed as blue ASCII art"
-      />
-    </td>
-  </tr>
+</td>
+<td width="50%" align="center">
+
+<img
+src="./assets/anime-city-ascii-blue.png"
+width="420"
+alt="Anime city scene reconstructed as blue ASCII art"
+/>
+
+</td>
+</tr>
 </table>
-
-
-
-
-
-
-
