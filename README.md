@@ -4,7 +4,7 @@ I like researching LLM inference (-> KV-cache)
 
 running a discretionary book myself (US + EU equities), trading since 15 
 
-Previous/Past: AXTI, MRAM, TTMI, NVTS ...
+Past: AXTI, MRAM, TTMI, NVTS ...
 
 favorite mathematician: https://alpo.ge/ 
 
