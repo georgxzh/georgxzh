@@ -9,7 +9,7 @@ I like researching LLM inference (&rarr; KV cache)
 
 <p>
 Running a discretionary book myself<br>
-(US + EU equities), trading since 15
+(US + EU equities), trading since I was 15
 </p>
 
 <p>
