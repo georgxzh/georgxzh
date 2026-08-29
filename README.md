@@ -7,16 +7,6 @@ Honours Math @ UWaterloo '31<br>
 I like researching LLM inference (&rarr; KV cache)
 </p>
 
-<p>
-Running a discretionary book myself<br>
-(US + EU equities), trading since I was 15
-</p>
-
-<p>
-Past: AXTI, MRAM, TTMI, NVTS ...
-</p>
-
-<p>
 Favorite mathematician:
 <a href="https://alpo.ge/">Alpoge</a>
 </p>
