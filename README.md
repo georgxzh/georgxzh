@@ -20,7 +20,7 @@ Hadamard Matrices H<sub>4</sub>
 </p>
 
 <p>
-Nvidia Tesla T4 &rarr 16 GB GDDR6, Turing, compute capability 7.5, FP16 inference GPU
+Nvidia Tesla T4 &rarr; 16 GB GDDR6, Turing, compute capability 7.5, FP16 inference GPU
 </p>
 </td>
 <td width="50%" align="center">
