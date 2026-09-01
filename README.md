@@ -3,13 +3,14 @@
 <td width="50%" align="center">
 
 <p>
-Honours Math @ UWaterloo '31<br>
+honours math @ uwaterloo '31<br>
 </p>
 
 <p>
 I like researching LLM inference (&rarr; KV cache)
 </p>
 
+<p>
 Favorite mathematician:
 <a href="https://alpo.ge/">Alpoge</a>
 </p>
