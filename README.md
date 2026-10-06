@@ -7,7 +7,7 @@ honours math @ uwaterloo '31<br>
 </p>
 
 <p>
-I like researching LLM inference (&rarr; KV cache)
+I like working on inference (&rarr; KV cache)
 </p>
 
 <p>
