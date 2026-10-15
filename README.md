@@ -7,7 +7,7 @@ honours math @ uwaterloo '31<br>
 </p>
 
 <p>
-I love working on inference (&rarr; KV cache)
+I love working on inference (&rarr; KV cache) and AI safety/alignment
 </p>
 
 <p>
