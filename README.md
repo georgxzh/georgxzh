@@ -3,7 +3,7 @@
 <td width="50%" align="center">
 
 <p>
-  Hi, I'm <a href="https://georgxzh.vercel.app/">George</a>
+  Hi, I'm <a href="https://georgxzh.vercel.app/">George 👋 </a>
 </p>
 
 <p>
