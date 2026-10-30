@@ -3,7 +3,7 @@
 <td width="50%" align="center">
 
 <p>
-honours math @ uwaterloo '31<br>
+  Hi, I'm <a href="https://georgxzh.vercel.app/">George</a>
 </p>
 
 <p>
