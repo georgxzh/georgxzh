@@ -16,7 +16,7 @@ Favorite mathematician:
 </p>
 
 <p>
-Hadamard Matrices H<sub>4</sub>
+Hadamard matrices, elliptic curves
 </p>
 
 <p>
